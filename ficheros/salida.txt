@@ -1,0 +1,3 @@
+- Realizar la instalación personalizada (no la típica)
+- Tras reiniciar, copiar el crack en el escritorio y ejecutarlo desde allí
+eligiendo install
